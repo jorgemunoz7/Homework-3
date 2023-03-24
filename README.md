@@ -9,4 +9,4 @@ The Password Generator application mock up:
 The Password Generator application I created:
 ![The Password Generator application I created.](./Assets/LiveServerDeployedApplication.png)
 
-Link to deployed application: Insert Link Here 
+Link to deployed application: https://jorgemunoz7.github.io/Jorges-Password-Generator/
